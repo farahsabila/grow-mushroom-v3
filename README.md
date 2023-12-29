@@ -9,9 +9,9 @@ This prototype was made for growing any mushroom at home.
 Air humidity, air temperature, and light intensity are being monitored and controlled using IoT Technology. 
 
 With these parameter specifications:
-• Air humidity: 70 % - 95 %
-• Air temperature: 20 °C - 25 °C
-• Light intensity: 300 lx - 500 lx
+1. Air humidity: 70 % - 95 %
+2. Air temperature: 20 °C - 25 °C
+3. Light intensity: 300 lx - 500 lx
 
 This range parameter specification can be adjusted according to the type of mushroom being chosen.
  
