@@ -7,3 +7,9 @@ This prototype was made for growing any mushroom at home.
 
 ## How It Works
 Air humidity, air temperature, and light intensity are being monitored and controlled using IoT Technology. 
+
+With these parameter specifications:
+1. Air humidity : 70 % - 95 %
+2. Air temperature : 20 °C - 25 °C
+3. Light intensity : 300 lx - 500 lx
+
