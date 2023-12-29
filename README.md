@@ -13,3 +13,4 @@ With these parameter specifications:
 2. Air temperature : 20 °C - 25 °C
 3. Light intensity : 300 lx - 500 lx
 
+This range parameter specification can be adjusted according to the type of mushroom being chosen.
